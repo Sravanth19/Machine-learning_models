@@ -1,7 +1,5 @@
 # 🤖 Machine Learning Models & Algorithms
 
-**Repository Link:** [https://github.com/Sravanth19/Machine-learning_models](https://github.com/Sravanth19/Machine-learning_models)
-
 This repository serves as a comprehensive collection of Machine Learning and Deep Learning implementations. It covers the entire data science pipeline, from data preprocessing to building complex models like Neural Networks and XGBoost. Each folder contains Python scripts and datasets designed to help users understand the core logic behind these algorithms.
 
 ## 📂 Repository Structure
