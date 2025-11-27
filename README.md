@@ -61,6 +61,13 @@ This repository is built for:
 * **Reference:** Quick lookup for code snippets regarding specific models.
 * **Experimentation:** Testing different datasets on pre-built models.
 
+## 📈 Key Topics Covered
+
+* **Supervised Learning:** Regression and Classification.
+* **Unsupervised Learning:** Clustering and Association Rules.
+* **Neural Networks:** Building and training ANNs/CNNs.
+* **Model Optimization:** Hyperparameter tuning and dimensionality reduction to improve performance.
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you want to add a new model (e.g., NLP) or improve existing code:
